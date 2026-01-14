@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋, welcome to ✨Xexci's. 
+
 
 <!--
 **xexci/xexci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Welcome to ✨Xexci's. I am a customer service proffessional transitioning into Tech.
-
+I am a customer service proffessional transitioning into Tech.
 - 🔭 I’m currently working on ... Getting certified
 - 🌱 I’m currently learning ... Cybersecurity, Agentic AI and Linux OS
 - 👯 I’m looking to collaborate on ... My first App
